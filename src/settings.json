@@ -1,0 +1,97 @@
+{
+  "accounts": [],
+  "currentAccount": null,
+  "currentUser": {
+    "isCompletionEnabled": true,
+    "escapeCodeTimeout": 500,
+    "tabSize": 8,
+    "_events": {},
+    "_eventsCount": 1,
+    "line": "",
+    "output": {
+      "connecting": false,
+      "_hadError": false,
+      "_parent": null,
+      "_host": null,
+      "_closeAfterHandlingError": false,
+      "_events": {},
+      "_readableState": {
+        "highWaterMark": 0,
+        "buffer": [],
+        "bufferIndex": 0,
+        "length": 0,
+        "pipes": [],
+        "awaitDrainWriters": null
+      },
+      "_writableState": {
+        "highWaterMark": 16384,
+        "length": 0,
+        "corked": 0,
+        "writelen": 0,
+        "bufferedIndex": 0,
+        "pendingcb": 0
+      },
+      "allowHalfOpen": false,
+      "_eventsCount": 2,
+      "_sockname": null,
+      "_pendingData": null,
+      "_pendingEncoding": "",
+      "server": null,
+      "_server": null,
+      "columns": 120,
+      "rows": 30,
+      "_type": "tty",
+      "fd": 1,
+      "_isStdio": true
+    },
+    "input": {
+      "connecting": false,
+      "_hadError": false,
+      "_parent": null,
+      "_host": null,
+      "_closeAfterHandlingError": false,
+      "_events": {
+        "end": [
+          null,
+          null
+        ]
+      },
+      "_readableState": {
+        "highWaterMark": 0,
+        "buffer": [],
+        "bufferIndex": 0,
+        "length": 0,
+        "pipes": [],
+        "awaitDrainWriters": null
+      },
+      "_writableState": {
+        "highWaterMark": 16384,
+        "length": 0,
+        "corked": 0,
+        "writelen": 0,
+        "bufferedIndex": 0,
+        "pendingcb": 0
+      },
+      "allowHalfOpen": false,
+      "_eventsCount": 5,
+      "_sockname": null,
+      "_pendingData": null,
+      "_pendingEncoding": "",
+      "server": null,
+      "_server": null,
+      "isRaw": true,
+      "isTTY": true,
+      "fd": 0
+    },
+    "history": [
+      "17"
+    ],
+    "historySize": 30,
+    "removeHistoryDuplicates": false,
+    "crlfDelay": 100,
+    "terminal": true,
+    "cursor": 0,
+    "historyIndex": -1,
+    "prevRows": 0
+  }
+}
