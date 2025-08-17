@@ -131,10 +131,11 @@ npm run build:clean # Compila sem bytecode
 
 ## 📄 Licença
 
-Este projeto está sob a licença ISC. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## ⚖️ Disclaimer
 
 Este software é fornecido "como está", sem garantias de qualquer tipo. Os desenvolvedores não são responsáveis por qualquer dano ou consequência do uso deste software. O uso de selfbots pode violar os Termos de Serviço do Discord e resultar em banimento da conta.
 
 **⚠️ Lembre-se: Use este software com responsabilidade e apenas em suas próprias contas.**
+
